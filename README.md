@@ -88,13 +88,3 @@ The performance of each model was evaluated using the following metrics:
 - R-squared (R2)
 
 The top-performing models for classification were **XGBoost**, **Random Forest**, and **Gradient Boosting**. For regression tasks, **AdaBoost Regressor** had the lowest test RMSE and MAE.
-
-## Installation
-
-To run this project locally, follow the steps below:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Y-R-A-V-R-5/parkisons-disease-detection.git
-cd parkisons-disease-detection
